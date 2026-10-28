@@ -1,0 +1,5 @@
+{
+  "functions": {
+    "api/tryon.js": { "maxDuration": 120, "memory": 1024 }
+  }
+}
